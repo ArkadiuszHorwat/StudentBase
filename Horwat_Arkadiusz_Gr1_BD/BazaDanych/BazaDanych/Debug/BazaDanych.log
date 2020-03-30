@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  BazaDanych.cpp
+  Dane.cpp
+  Student.cpp
+  Generowanie kodu...
+Dane.obj : error LNK2005: Element "int licznikID" (?licznikID@@3HA) jest już zdefiniowany w elemencie BazaDanych.obj
+Dane.obj : error LNK2005: Element "class std::vector<struct Student,class std::allocator<struct Student> > lista" (?lista@@3V?$vector@UStudent@@V?$allocator@UStudent@@@std@@@std@@A) jest już zdefiniowany w elemencie BazaDanych.obj
+C:\Users\dickens\Desktop\projekty cpp\Horwat_Arkadiusz_Gr1_BD\BazaDanych\Debug\BazaDanych.exe : fatal error LNK1169: znaleziono co najmniej jeden wielokrotnie zdefiniowany symbol
